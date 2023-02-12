@@ -1,2 +1,4 @@
+nsetools==1.0.11
 pytube==12.1.2
 streamlit==1.17.0
+telegram==0.0.1
