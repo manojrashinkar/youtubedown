@@ -31,7 +31,7 @@ if (int(lcp) > 500):
         import telegram,time
 
         # Your bot's token, which you can obtain from BotFather
-        bot_token = "6205226202:AAFKKOeF3Ia-aZ9f8t5fNbzbV9XuHRrkIMA"
+        bot_token = "6205226202:AAFKKOeF3Ia-"
 
         # The chat ID of the user you want to send a message to
         chat_id = 773472307
