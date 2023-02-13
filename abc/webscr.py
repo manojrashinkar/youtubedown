@@ -14,8 +14,8 @@ rows = table.find_all("tr")
 symbol_list = []
 name_list = []
 atomic_no_list = []
-
-
+st.title("Periodic Table")
+st.snow()
 # Loop through the rows
 for row in rows:
     data = row.find_all("td")
